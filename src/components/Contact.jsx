@@ -171,7 +171,7 @@ export default function Contact() {
                 href="mailto:bradkipkoech@gmail.com"
                 className="flex items-center gap-3 border border-white px-6 py-4 rounded-xl hover:bg-white hover:text-slate-900 transition"
               >
-                Get In Touch
+                Get In Touch.
 
                 <ArrowRight size={20} />
 
