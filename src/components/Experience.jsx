@@ -19,7 +19,7 @@ const experiences = [
     icon: <Briefcase size={22} />,
   },
   {
-    year: "2026",
+    year: "2025",
     title: "Lead Mobile Developer",
     company: "Konvene",
     description:
