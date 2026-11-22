@@ -123,4 +123,29 @@ export const projects = [
 
     screenshots: [],
   },
+  {
+    id: 5,
+
+    title: "fuatilia",
+
+    category: "web",
+
+    featured: false,
+
+    status: "not live",
+    
+
+    description:
+     " AI cancer care navigator so that every woman who screens positive for cervical cancer in Kenya reaches treatment(hackathon MVP, synthetic data).",
+    
+    tech: [
+      "React",
+      "Tailwind",
+      "FastAPI",
+      "SEO",
+    ],
+
+    screenshots: []
+
+  }
 ];

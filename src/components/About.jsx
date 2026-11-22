@@ -88,27 +88,27 @@ export default function About() {
               <div className="space-y-5 text-slate-400 leading-8">
 
                 <p>
-                  🎓 Pursuing a Bachelor of Science in Computer Science at
+                  Pursuing a Bachelor of Science in Computer Science at
                   Masinde Muliro University of Science and Technology.
                 </p>
 
                 <p>
-                  📊 Trained in Data Engineering and Data Analytics through
+                  Trained in Data Engineering and Data Analytics through
                   LuxDevHQ under Data Science East Africa.
                 </p>
 
                 <p>
-                  📱 Led the development of Konvene and contributed to CareLink,
+                  Led the development of Konvene and contributed to CareLink,
                   delivering Flutter applications powered by Firebase.
                 </p>
 
                 <p>
-                  🌍 Built complete software solutions including FarmXpat and
-                  Tenwa Trading & Logistics.
+                  Built complete software solutions including FarmXpat,
+                  Tenwa Trading & Logistics and collaborated in building fuatilia and momentum_ledger
                 </p>
 
                 <p>
-                  🚀 Passionate about creating intuitive digital experiences,
+                  Passionate about creating intuitive digital experiences,
                   solving business problems and continuously learning modern
                   technologies.
                 </p>
